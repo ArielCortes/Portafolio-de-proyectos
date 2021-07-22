@@ -1,3 +1,4 @@
+#Código que determina el porcentaje de probabilidad de tener 2 equipos con valor 100 en un grupo de 5 equipos en Python.
 #Premisas en Python
 CantEquipos = 5
 MediaGrupo = 92.4
